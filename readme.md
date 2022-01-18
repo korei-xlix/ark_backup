@@ -18,9 +18,9 @@ Windows環境化でARK:Survival Evolvedのローカルプレイにおけるセ�
 * [セットアップ手順](#aSetup)
 * [アップデート手順](#aUpdate)
 * [起動方法](#aStart)
-* [運用方法](#aHowtoUnyo)
-* [免責事項](#aDisclaimer)
-* [謝辞](#aAcknowledgment)
+* [各機能](#aFunction)
+* [本リポジトリの規約](#aRules)
+* [参考記事](#aReference)
 
 
 
@@ -143,7 +143,7 @@ DOSのコマンドラインにて以下を入力します。
 
 
 
-# 使い方 <a name="aFunction"></a>
+# 各機能 <a name="aFunction"></a>
 各機能を以下に説明します。
 コマンドを実行するには、画面のプロンプトに指定のコマンドを入力します。
 コマンドは全て\マークの後、半角英字を入力します。
