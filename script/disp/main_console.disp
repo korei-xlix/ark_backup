@@ -1,0 +1,19 @@
+--------------------
+ ARK Backup CONSOLE
+--------------------
+
+    [\g]              ARKデータ日時取得
+[@ARK-LAST@]
+
+    [\mb]             手動バックアップ
+[@MANUAL-BACKUP-LAST@]
+
+    [\cb]             定期バックアップ
+[@CIRCLE-BACKUP-LAST@]
+[@CIRCLE-BACKUP-TIME@]
+
+
+    [\v]              システム情報の表示
+
+    [\q] [exit]       コンソール終了
+
